@@ -1,0 +1,8 @@
+﻿  Queue.cpp
+c:\users\lm\source\repos\exercise7\queue\queue.cpp(14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  c:\users\lm\source\repos\exercise7\queue\queue.cpp(43): note: 参见对正在编译的函数 模板 实例化“double testQueue<T>(queue<T> &,int)”的引用
+          with
+          [
+              T=int
+          ]
+  Queue.vcxproj -> C:\Users\LM\source\repos\exercise7\Debug\Queue.exe
